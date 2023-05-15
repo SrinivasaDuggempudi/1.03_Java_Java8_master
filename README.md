@@ -14,6 +14,15 @@ Author : Srinivasa Duggempudi.
 
 1. ### Java8 features?
 
+**Lambda expression** - Adds functional processing capability to Java.
+**Functional interfaces :** an interface that contains only a single abstract (unimplemented) method. A functional interface can contain default                             and static methods which do have an implementation, in addition to the single unimplemented method
+ **Method references -** Referencing functions by their names instead of invoking them directly. Using functions as parameter.
+ **Default method -** Interface to have default method implementation.
+ **New tools -** New compiler tools and utilities are added like ‘jdeps’ to figure out dependencies.
+ **Stream API -** New stream API to facilitate pipeline processing.
+ **Date Time API -** Improved date time API.
+**Optional -** Emphasis on best practices to handle null values properly.
+**Nashorn, JavaScript Engine -** A Java-based engine to execute JavaScript code.
 
 
 **[⬆ Back to Top](#table-of-contents)**
