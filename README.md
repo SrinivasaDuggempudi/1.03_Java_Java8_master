@@ -17,3 +17,36 @@ Author : Srinivasa Duggempudi.
 
 
 **[⬆ Back to Top](#table-of-contents)**
+
+2. ### Custom Stack Implementation?
+
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+3. ### Custom Stack Implementation?
+
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+4. ### Custom Stack Implementation?
+
+
+
+**[⬆ Back to Top](#table-of-contents)**
+5. ### Custom Stack Implementation?
+
+
+
+**[⬆ Back to Top](#table-of-contents)**
+6. ### Custom Stack Implementation?
+
+
+
+**[⬆ Back to Top](#table-of-contents)**
+7. ### Custom Stack Implementation?
+
+
+
+**[⬆ Back to Top](#table-of-contents)**
