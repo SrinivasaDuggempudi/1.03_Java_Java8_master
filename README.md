@@ -14,12 +14,13 @@ Author : Srinivasa Duggempudi.
 
 1. ### Java8 features?
 
-**Lambda expression** - Adds functional processing capability to Java.
+**Lambda expression** - A lambda expression is a short block of code which takes in parameters and returns a value. Lambda expressions are                               similar to methods, but they do not need a name and they can be implemented right in the body of a method.
+
 **Functional interfaces :** an interface that contains only a single abstract (unimplemented) method. A functional interface can contain default                             and static methods which do have an implementation, in addition to the single unimplemented method.
 
- **Method references -** Referencing functions by their names instead of invoking them directly. Using functions as parameter.
+ **Method references -** Method reference refers to the method via the use of an :: operator.
  
- **Default method -** Interface to have default method implementation.
+ **Default method -** The method which has the implementation in interface is default method. we can have any number of default methods in                             interface.
  
  **New tools -** New compiler tools and utilities are added like ‘jdeps’ to figure out dependencies.
  
